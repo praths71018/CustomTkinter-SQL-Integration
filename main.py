@@ -11,7 +11,7 @@ def fetch():
         temp=entry1.get()
         print("{}".format(temp))
 
-        conn = sql.connect(host="localhost", user="root", passwd="pr@tham262003", database="health")
+        conn = sql.connect(host="localhost", user="root", passwd="", database="health")
         if conn.is_connected:
             print("Database Connection is Successful")
             cur=conn.cursor()
