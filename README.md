@@ -23,6 +23,11 @@ Connecting MySQL Database with Custom Tkinter GUI in Python.
    python main.py
    ```
 3. A GUI will pop up as shown in below Figure.
-4. Enter temperature and press Enter button. Feedback will be displayed
+
+   ![img3](https://github.com/praths71018/CustomTkinter-SQL-Integration/blob/main/Output%20Screenshot/3.png)
+   
+5. Enter temperature and press Enter button. Feedback will be displayed
+   
    ![img1](https://github.com/praths71018/CustomTkinter-SQL-Integration/blob/main/Output%20Screenshot/1.png)
+   
    ![img2](https://github.com/praths71018/CustomTkinter-SQL-Integration/blob/main/Output%20Screenshot/2.png)
